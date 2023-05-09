@@ -9,5 +9,10 @@
             <link>https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada</link>
             <description>Noticas sobre el pais</description>
         </item>
+        <item>
+            <title>Noticias ultimo momento</title>
+            <link>http://ep00.epimg.net/rss/tags/ultimas_noticias.xml</link>
+            <description>Noticas sobre el pais de ultimo momento</description>
+        </item>
     </channel>
 </rss>
